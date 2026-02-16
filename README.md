@@ -1,2 +1,2 @@
 # GitHubDataBase
-Using Github as a database
+This is an attempt to use GitHub as a database using Playwright WebScraping
